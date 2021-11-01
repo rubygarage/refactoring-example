@@ -1,3 +1,3 @@
-require_relative 'account'
+require_relative 'lib/refactor_bank'
 
-Account.new.console
+Console.new.console
